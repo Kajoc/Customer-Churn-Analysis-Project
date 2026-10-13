@@ -10,10 +10,8 @@ This project focuses on analyzing customer churn data to identify key drivers of
 !['Churn Dashboard'](./Images/customer_churn_dashboard.png)
 
 ### Customer Risk Analysis
-![Customer Risk Analysis]([add-your-customer-risk-analysis-image-here.png])
+![Customer Risk Analysis](./Images/customer_risk_analysis.png)
 
-### Key Insights & Recommendations
-![Insights and Recommendations]([add-your-insights-image-here.png])
 
 ## 💡 Key Insights
 Based on the analysis of the 7,043 customer records, the following key insights were identified:
