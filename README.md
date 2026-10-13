@@ -7,7 +7,7 @@ This project focuses on analyzing customer churn data to identify key drivers of
 *Below are the visualizations created for this project. (Replace the bracketed text with your actual image file names or paths).*
 
 ### Churn Dashboard
-![Churn Dashboard]([./Images/customer_churn_dashboard.png])
+![Churn Dashboard]([/Images/customer_churn_dashboard.png])
 
 ### Customer Risk Analysis
 ![Customer Risk Analysis]([add-your-customer-risk-analysis-image-here.png])
