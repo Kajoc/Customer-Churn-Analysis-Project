@@ -4,7 +4,7 @@
 This project focuses on analyzing customer churn data to identify key drivers of customer attrition and provide actionable, data-driven recommendations to improve retention. By examining a dataset of over **7,000 customer records**, I uncovered critical behavioral patterns, service usage trends, and demographic factors that influence a customer's decision to leave. The final output includes interactive dashboards and strategic recommendations designed to reduce the overall churn rate.
 
 ## 📊 Dashboard & Visualizations
-*Below are the visualizations created for this project. (Replace the bracketed text with your actual image file names or paths).*
+*Below are the visualizations created for this project.*
 
 ### Churn Dashboard
 ![Churn Dashboard](./Images/customer_churn_dashboard.png)
